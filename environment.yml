@@ -1,0 +1,7 @@
+name: base
+channels:
+- conda-forge
+dependencies:
+- appmode
+- jupyter_contrib_nbextensions
+- sympy
