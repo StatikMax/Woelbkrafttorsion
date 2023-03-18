@@ -1,7 +1,8 @@
 name: base
 channels:
 - conda-forge
+- defaults
 dependencies:
-- appmode
-- jupyter_contrib_nbextensions
+- python=3.10
+- ipython
 - sympy
